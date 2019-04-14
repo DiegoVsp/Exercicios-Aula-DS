@@ -1,0 +1,16 @@
+D:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+D:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.Form1.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.Properties.Resources.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.csproj.GenerateResource.Cache
+D:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.pdb
+D:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Pessoa\Pessoa\obj\x86\Debug\Pessoa.csproj.GenerateResource.Cache

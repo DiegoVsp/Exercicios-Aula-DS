@@ -1,0 +1,15 @@
+D:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\bin\Debug\funcionario.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\bin\Debug\funcionario.pdb
+D:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.Form1.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.Properties.Resources.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.csproj.GenerateResource.Cache
+D:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\bin\Debug\funcionario.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\bin\Debug\funcionario.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\funcionario\funcionario\obj\x86\Debug\funcionario.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\bin\Debug\Heranca.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\bin\Debug\Heranca.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\obj\x86\Debug\Heranca.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\obj\x86\Debug\Heranca.frmProfessor.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\obj\x86\Debug\Heranca.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\obj\x86\Debug\Heranca.csproj.GenerateResource.Cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\obj\x86\Debug\Heranca.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\obj\x86\Debug\Heranca.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Heranca\Heranca\obj\x86\Debug\Heranca.csprojResolveAssemblyReference.cache

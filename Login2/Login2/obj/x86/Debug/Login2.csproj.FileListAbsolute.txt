@@ -1,0 +1,8 @@
+E:\pendrive\PATRICIA ZIVIANE AULA\Login2\Login2\bin\Debug\Login2.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Login2\Login2\bin\Debug\Login2.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Login2\Login2\obj\x86\Debug\Login2.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Login2\Login2\obj\x86\Debug\Login2.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Login2\Login2\obj\x86\Debug\Login2.csproj.GenerateResource.Cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Login2\Login2\obj\x86\Debug\Login2.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Login2\Login2\obj\x86\Debug\Login2.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Login2\Login2\obj\x86\Debug\Login2.csprojResolveAssemblyReference.cache

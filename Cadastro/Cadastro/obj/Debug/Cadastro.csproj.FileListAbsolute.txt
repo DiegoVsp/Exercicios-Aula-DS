@@ -1,0 +1,30 @@
+C:\Users\diego\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\diego\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\diego\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\diego\Desktop\Cadastro\Cadastro\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\diego\Desktop\Cadastro\Cadastro\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.frmProfessor.resources
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.frmAluno.resources
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.frmDiretor.resources
+C:\Users\diego\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.frmFuncionario.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.frmAluno.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.frmDiretor.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.frmFuncionario.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.frmProfessor.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.Cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Cadastro\Cadastro\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll

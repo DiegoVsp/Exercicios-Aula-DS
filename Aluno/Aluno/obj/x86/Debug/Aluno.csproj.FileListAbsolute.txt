@@ -1,0 +1,16 @@
+D:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\bin\Debug\Aluno.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\bin\Debug\Aluno.pdb
+D:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.Form1.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.Properties.Resources.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.csproj.GenerateResource.Cache
+D:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.pdb
+D:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\bin\Debug\Aluno.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\bin\Debug\Aluno.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Aluno\Aluno\obj\x86\Debug\Aluno.csproj.GenerateResource.Cache

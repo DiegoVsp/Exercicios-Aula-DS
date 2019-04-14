@@ -1,0 +1,16 @@
+D:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\bin\Debug\ContaCorrente22-02.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\bin\Debug\ContaCorrente22-02.pdb
+D:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22_02.Form1.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22_02.Properties.Resources.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22-02.csproj.GenerateResource.Cache
+D:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22-02.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22-02.pdb
+D:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22-02.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22-02.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22-02.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\bin\Debug\ContaCorrente22-02.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\bin\Debug\ContaCorrente22-02.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22-02.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22_02.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22_02.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\ContaCorrente22-02\ContaCorrente22-02\obj\x86\Debug\ContaCorrente22-02.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+E:\pendrive\PATRICIA ZIVIANE AULA\CinePromo\CinePromo\bin\Debug\CinePromo.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\CinePromo\CinePromo\bin\Debug\CinePromo.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\CinePromo\CinePromo\obj\x86\Debug\CinePromo.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\CinePromo\CinePromo\obj\x86\Debug\CinePromo.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\CinePromo\CinePromo\obj\x86\Debug\CinePromo.csproj.GenerateResource.Cache
+E:\pendrive\PATRICIA ZIVIANE AULA\CinePromo\CinePromo\obj\x86\Debug\CinePromo.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\CinePromo\CinePromo\obj\x86\Debug\CinePromo.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\CinePromo\CinePromo\obj\x86\Debug\CinePromo.csprojResolveAssemblyReference.cache

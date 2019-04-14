@@ -1,0 +1,8 @@
+E:\pendrive\PATRICIA ZIVIANE AULA\Polimorfismo\Valor_Ingresso\Valor_Ingresso\obj\x86\Debug\Valor_Ingresso.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Polimorfismo\Valor_Ingresso\Valor_Ingresso\obj\x86\Debug\Valor_Ingresso.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Polimorfismo\Valor_Ingresso\Valor_Ingresso\obj\x86\Debug\Valor_Ingresso.csproj.GenerateResource.Cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Polimorfismo\Valor_Ingresso\Valor_Ingresso\bin\Debug\Valor_Ingresso.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Polimorfismo\Valor_Ingresso\Valor_Ingresso\bin\Debug\Valor_Ingresso.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Polimorfismo\Valor_Ingresso\Valor_Ingresso\obj\x86\Debug\Valor_Ingresso.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Polimorfismo\Valor_Ingresso\Valor_Ingresso\obj\x86\Debug\Valor_Ingresso.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Polimorfismo\Valor_Ingresso\Valor_Ingresso\obj\x86\Debug\Valor_Ingresso.csprojResolveAssemblyReference.cache

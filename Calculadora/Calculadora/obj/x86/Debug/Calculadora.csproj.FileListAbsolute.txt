@@ -1,0 +1,15 @@
+D:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+D:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache

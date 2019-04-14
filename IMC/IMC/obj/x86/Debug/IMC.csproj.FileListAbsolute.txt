@@ -1,0 +1,8 @@
+E:\pendrive\PATRICIA ZIVIANE AULA\IMC\IMC\bin\Debug\IMC.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\IMC\IMC\bin\Debug\IMC.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\IMC\IMC\obj\x86\Debug\IMC.csproj.GenerateResource.Cache
+E:\pendrive\PATRICIA ZIVIANE AULA\IMC\IMC\obj\x86\Debug\IMC.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\IMC\IMC\obj\x86\Debug\IMC.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\IMC\IMC\obj\x86\Debug\IMC.csprojResolveAssemblyReference.cache

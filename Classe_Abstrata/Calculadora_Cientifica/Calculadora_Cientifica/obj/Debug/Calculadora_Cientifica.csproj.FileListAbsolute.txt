@@ -1,0 +1,10 @@
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\obj\Debug\Calculadora_Cientifica.csprojAssemblyReference.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\obj\Debug\Calculadora_Cientifica.Form1.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\obj\Debug\Calculadora_Cientifica.Properties.Resources.resources
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\obj\Debug\Calculadora_Cientifica.csproj.GenerateResource.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\obj\Debug\Calculadora_Cientifica.csproj.CoreCompileInputs.cache
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\bin\Debug\Calculadora_Cientifica.exe.config
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\bin\Debug\Calculadora_Cientifica.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\bin\Debug\Calculadora_Cientifica.pdb
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\obj\Debug\Calculadora_Cientifica.exe
+E:\pendrive\PATRICIA ZIVIANE AULA\Classe_Abstrata\Calculadora_Cientifica\Calculadora_Cientifica\obj\Debug\Calculadora_Cientifica.pdb
